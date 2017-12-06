@@ -13,6 +13,10 @@
 *.o
 *.so
 
+# Documentation output #
+########################
+*.pdf
+
 # DataSets #
 ############
 *.csv
@@ -34,7 +38,6 @@
 # Logs and databases #
 ######################
 *.log
-*.sql
 *.sqlite
 
 # OS generated files #
